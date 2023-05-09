@@ -1,0 +1,1172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/*header*/
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-family: "Poppins";
+    padding-top: 19px;
+}
+.shila{
+    padding-top: 11px;
+    padding-left: 147px;
+}
+.Icons{
+    display: flex;
+    justify-content: end;
+    padding-top: 19px;
+    gap: 18px;
+}
+/*Part1*/
+.r1{
+    background-image: url("images/rec1.png");
+}
+.list2{
+    font-family: "Poppins";
+    list-style-type: none;
+    font-size: 13px;
+    padding-top: 42px;
+    padding-bottom: 30px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.txt-wh{
+    color:white;
+}
+.image1{
+    width: 100%;
+}
+.text-image1{
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    left: 36%;
+}
+.text1{
+    color: white;
+    font-size: 34px;
+    padding-bottom: 50%;
+}
+.btn{
+    background-color: white;
+}
+/*part2*/
+.part2{
+    margin-top: 20px;
+}
+.mens{
+    width: 100%;
+    margin-left: -12px;
+}
+.btn-arrow{
+    color: black;
+    position: absolute;
+    top: 91%;
+    left: 88%;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.text-im1{
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    color: white;
+}
+/*image2*/
+.trands{
+    width: 94%;
+}
+.text-im2{
+    position: absolute;
+    text-align: center;
+    top: 33%;
+    left: 33%;
+    color: white;
+}
+.btn-arrow2{
+    color: black;
+    position: absolute;
+    top: 81%;
+    left: 72%;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.r2{
+    padding-bottom: 39px;
+}
+.sales2{
+    width: 100%;
+    margin-left: 12px;
+}
+.text-im4{
+    position: absolute;
+    color: white;
+    top: 34%;
+    left: 31%;
+    text-align: center;
+}
+.btn-arrow4{
+    color: black;
+    position: absolute;
+    top: 91%;
+    left: 80%;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
+/*Part3*/
+.text-part3{
+    text-align: center;
+    margin-top: 29px;
+    font-family: "Poppins";
+}
+/*part4*/
+.text-part4{
+    text-align: center;
+    margin-top: 30px;
+    font-family: "Poppins";
+    font-weight:bolder;
+}
+.navbar2{
+    display: flex;
+    justify-content: center;
+}
+.card-body1{
+    text-align: center;
+    font-family: "Poppins";
+}
+.dollar1{
+    text-decoration: line-through;
+}
+.bt-heart{
+    color: black;
+    font-size: 22px;
+    position: absolute;
+    top: 62%;
+    left: 84%;
+    border-radius: 22px;
+}
+.text-sale{
+    position: absolute;
+    left: 45%;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+/*part5*/
+.part5{
+    margin-bottom: 30px;
+}
+.r3{
+    margin-top: 50px;
+    background-image: url("images/rec2.png");
+}
+.text5{
+    text-align: center;
+    padding-top: 30px;
+  
+}
+.text5-1{
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.search{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+.serch-input{
+border: none;
+width: 24%;
+}
+.btn-s{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+/*Part6*/
+.text6{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: "Poppins";
+}
+.text6-1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-family: "Poppins";
+    font-weight: bolder;
+}
+/*Part7*/
+.part7{
+    margin-top: 30px;
+    background-color: rgb(196, 195, 195);
+}
+.shila7{
+    text-align: center;
+}
+/*catalog*/
+
+/*part1*/
+.jeans{
+    background-color: rgb(234, 232, 232);
+    margin-top: 5%;
+}
+.textc-jeans{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+}
+.jeans1{
+    font-family: "Poppins";
+    font-weight: bold;
+}
+/*part2*/
+.drop{
+    margin-top: 4%;
+}
+.cr{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.cr2{
+  margin-bottom: 4%;
+}
+/*button*/
+.button-load{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+.bt-ld{
+    background-color: black;
+    font-size: 15px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    color: white;
+}
+
+/*product*/
+.pr{
+    margin-top: 4%;
+}
+.sm{
+padding-top: 13px;
+}
+.seqiuns{
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.add{
+    margin-top: 2%;
+}
+.lr{
+    margin-top: 4%;
+}
+.black-b{
+    color: white;
+    width: 45%;
+    background-color: black;
+}
+
+/*Part2*/
+.text-des{
+    position:relative;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    text-align: center;
+}
+.descriton{
+    font-family: "Poppins";
+    text-decoration: underline;
+
+}
+.details{
+    font-family: "Poppins";
+    color: grey;
+    padding-left: 10px;
+}
+.lorem-c{
+    width: 50%;
+    position: absolute;
+    left: 25%;
+}
+/*Part3*/
+.related{
+    text-align: center;
+    font-family: "Poppins";
+    padding-bottom: 2%;
+    font-weight: 600;
+}
+  /*order_rec*/
+  .imageexmaple{
+    margin-bottom: 3%;
+  }
+  .text-bigimg{
+    position: absolute;
+    top: 104px;
+    left:459px;
+    text-align: center;
+  }
+  .th{
+    font-family: "Poppins";
+    font-weight: bold;
+  }
+  .em{
+    font-family: "Poppins";
+    font-size: 14px;
+  }
+  .homepage{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 570px;
+  }
+  /*faq*/
+  .with_border{
+    border: 1px solid;
+    margin-top: 2%;
+    padding: 6px 2px 6px 2px;
+    margin-bottom: 4%;
+  }
+  .buttonplus{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: white;
+  }
+  .lorem_faq{
+    padding: 9px;
+    font-family: "Poppins";
+  }
+  .lorem_faq_p{
+    color: grey;
+    font-family: "Poppins";
+  }
+  /*Contact*/
+  .contact{
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+  .lorem_contact{
+    text-align: center;
+    margin-bottom: 4%;
+    font-family: "Poppins";
+  }
+  .con{
+    text-align: center;
+    color: gray;
+    font-family: "Poppins";
+  }
+  .con1{
+    text-align: center;
+    font-family: "Poppins";
+  }
+  .border_con{
+    border: 1px solid;
+    padding: 10px;
+  }
+
+  .border_con1{
+    border: 1px  solid;
+    padding: 10px;
+    height: 115px;
+  }
+  .map{
+    margin-bottom: 4%;
+  }
+  /*about*/
+  .lorem_about{
+    margin-top: 4%;
+    text-align: center;
+    margin-bottom: 4%;
+    font-family: "Poppins";
+}
+.lorem_about1{
+    text-align: center;
+    font-family: "Poppins";
+    padding-top: 22%;
+}
+.circle{
+    border: 21px solid;
+    border-radius: 20px;
+    width: 0%;
+}
+.ellipse{
+    position: absolute;
+    top: 22%;
+    left: 45%;
+}
+/*Shopping_cart*/
+.buttonX{
+    color: red;
+    border: none;
+}
+.text-centersh{
+    font-weight: bold;
+    text-align: center;
+}
+.txt-shop{
+    font-family: "Poppins";
+}
+.size{
+    color: grey;
+    font-family: "Poppins";
+}
+.xl{
+    font-family: "Poppins";
+}
+.button-sh{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 43px;
+    height: 41px;
+    border-radius: 50%;
+}
+.serch-inputsh{
+    border: none;
+    width: 65%;
+    background-color: #efefef;
+}
+.buttons-sh{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.buttonch{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 2px 2px 2px 2px;
+}
+.total{
+    padding-left: 18px;
+}
+.button-checkout{
+    justify-content: end;
+    display: inline-grid;
+}
+.img-responsive{
+    width: 100%;
+}
+/*Checkout*/
+.pay{
+    border: 1px solid;
+    padding: 2px 2px 2px 2px;
+}
+.sh-ad{
+    font-family: "Poppins";
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.btn-payment{
+    background-color: black;
+    width: 100%;
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 5px 5px 5px 5px;
+}
+.txt-t{
+    font-weight: bold;
+    font-family: "Poppins";
+}
+@media screen and (max-width: 1400px) {
+    .img-gt{
+        width: 148%;
+    }
+    .ellipse {
+        position: absolute;
+        top: 20%;
+        left: 45%;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 89%;
+        left: 84%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .btn-arrow2 {
+        color: black;
+        position: absolute;
+        top: 75%;
+        left: 68%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .btn-arrow4 {
+        color: black;
+        position: absolute;
+        top: 88%;
+        left: 76%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .r2 {
+        padding-bottom: 31px;
+    }
+    .card-body1 {
+        text-align: center;
+        font-size: 12px;
+        font-family: "Poppins";
+    }
+    .bt-heart {
+        color: black;
+        font-size: 19px;
+        position: absolute;
+        top: 56%;
+        left: 81%;
+        border-radius: 22px;
+    }
+    /*product*/
+    .img-gt {
+        width: 145%;
+    }
+    .black-b{
+        color: white;
+        width: 45%;
+        background-color: black;
+        font-size: 14px;
+    }
+    /*oredr_rec*/
+    .text-bigimg {
+        position: absolute;
+        top: 104px;
+        left: 346px;
+        text-align: center;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 428px;
+        left: 436px;
+    }
+    .image_about{
+        width:100%
+    }
+    .ellipse {
+        position: absolute;
+        top: 13%;
+        left: 45%;
+    }
+  }
+
+
+@media screen and (max-width: 992px) {
+    .list2 {
+        font-family: "Poppins";
+        list-style-type: none;
+        font-size: 10px;
+        padding-top: 42px;
+        padding-bottom: 30px;
+    }
+    .text-image1 {
+        position: absolute;
+        text-align: center;
+        top: 5%;
+        left: 31%;
+    }
+    .text1 {
+        color: white;
+        font-size: 31px;
+        padding-bottom: 45%;
+    }
+    .text-im1 {
+        position: absolute;
+        top: 40%;
+        left: 26%;
+        color: white;
+    }
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 85%;
+        left: 80%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .text-im2 {
+        position: absolute;
+        text-align: center;
+        top: 24%;
+        left: 15%;
+        color: white;
+    }
+    .sales2 {
+        width: 104%;
+        margin-left: 12px;
+    }
+    .btn-arrow2 {
+        color: black;
+        position: absolute;
+        top: 75%;
+        left: 65%;
+        font-weight: bold;
+        font-size: 16px;
+        border-radius: 20px;
+    }
+    .btn-arrow4 {
+        color: black;
+        position: absolute;
+        top: 86%;
+        left: 76%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .card-body1 {
+        text-align: center;
+        font-size: 9px;
+        font-family: "Poppins";
+    }
+    .text-sale {
+        position: absolute;
+        left: 45%;
+        font-family: "Poppins";
+        font-weight: bold;
+        font-size: 12px;
+    }
+    .bt-heart {
+        color: black;
+        font-size: 14px;
+        position: absolute;
+        top: 52%;
+        left: 76%;
+        border-radius: 74px;
+    }
+    /*product*/
+    .img-gt {
+        width: 138%;
+    }
+    .black-b {
+        color: white;
+        width: 45%;
+        background-color: black;
+        font-size: 11px;
+    }
+    /*order_rec*/
+    .text-bigimg {
+        position: absolute;
+        top: 70px;
+        left: 248px;
+        text-align: center;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 297px;
+        left: 342px;
+    }
+    .ellipse {
+        position: absolute;
+        top: 8%;
+        left: 45%;
+    }
+    .lorem_about1 {
+        font-size: 13px;
+        text-align: center;
+        font-family: "Poppins";
+        padding-top: 20%;
+    }
+    .img-responsive {
+        width: 165%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .Icons {
+        display: flex;
+        justify-content: left;
+        padding-top: 19px;
+        gap: 15px;
+    }
+    .shila {
+        padding-top: 11px;
+        padding-left: 0px;
+    }
+    .list2 {
+        font-family: "Poppins";
+        list-style-type: none;
+        font-size: 10px;
+        padding-top: 42px;
+        padding-bottom: 30px;
+    }
+    .text1 {
+        color: white;
+        font-size: 29px;
+        padding-bottom: 30%;
+    }
+    .text-image1 {
+        position: absolute;
+        text-align: center;
+        top: 5%;
+        left: 27%;
+    }
+    .mens {
+        width: 94%;
+        margin-left: -10px;
+    }
+    .sales2 {
+        width: 97%;
+        margin-left: 12px;
+    }
+    .text-im1 {
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        color: white;
+    }
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 85%;
+        left: 77%;
+        font-weight: bold;
+        font-size: 21px;
+        border-radius: 20px;
+    }
+    .text-im2 {
+        position: absolute;
+        text-align: center;
+        top: 32%;
+        left: 18%;;
+        color: white;
+    }
+    .r2 {
+        padding-bottom: 11px;
+    }
+    .btn-arrow2 {
+        color: black;
+        position: absolute;
+        top: 75%;
+        left: 66%;
+        font-weight: bold;
+        font-size: 15px;
+        border-radius: 20px;
+    }
+    .text-im4 {
+        position: absolute;
+        color: white;
+        top: 40%;
+        left: 37%;
+        text-align: center;
+    }
+    .bt-heart {
+        color: black;
+        font-size: 14px;
+        position: absolute;
+        top: 52%;
+        left: 76%;
+        border-radius: 74px;
+    }
+    .card-body1 {
+        text-align: center;
+        font-size: 9px;
+        font-family: "Poppins";
+    }
+    .serch-input {
+        border: none;
+        width: 41%;
+    }
+    .text-sale {
+        position: absolute;
+        left: 45%;
+        font-family: "Poppins";
+        font-weight: bold;
+        font-size: 12px;
+    }
+    .text-bigimg {
+        position: absolute;
+        top: 37px;
+        left: 151px;
+        text-align: center;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 233px;
+        left: 245px;
+    }
+    .img-responsive {
+        width: 173%;
+    }
+}
+@media screen and (max-width: 767px) {
+    .Icons {
+        display: flex;
+        justify-content: left;
+        padding-top: 19px;
+        gap: 15px;
+    }
+    .shila {
+        padding-top: 11px;
+        padding-left: 0px;
+    }
+    .list2 {
+        font-family: "Poppins";
+        list-style-type: none;
+        font-size: 16px;
+        padding-top: 37px;
+        padding-bottom: 17px;
+    }
+    .text1 {
+        color: white;
+        font-size: 29px;
+        padding-bottom: 30%;
+    }
+    .text-image1 {
+        position: absolute;
+        text-align: center;
+        top: 5%;
+        left: 27%;
+    }
+    .mens {
+        width: 94%;
+        margin-left: 0px;
+    }
+    .sales2 {
+        width: 94%;
+        margin-left: 0px;
+    }
+    .text-im1 {
+        position: absolute;
+        top: 40%;
+        left: 33%;
+        color: white;
+    }
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 90%;
+        left: 83%;
+        font-weight: bold;
+        font-size: 21px;
+        border-radius: 20px;
+    }
+    .text-im2 {
+        position: absolute;
+        text-align: center;
+        top: 38%;
+        left: 39%;
+        color: white;
+    }
+    .btn-arrow2 {
+        color: black;
+        position: absolute;
+        top: 86%;
+        left: 75%;
+        font-weight: bold;
+        font-size: 21px;
+        border-radius: 20px;
+    }
+    .text-im4 {
+        position: absolute;
+        color: white;
+        top: 40%;
+        left: 37%;
+        text-align: center;
+    }
+    .bt-heart {
+        color: black;
+        font-size: 22px;
+        position: absolute;
+        top: 78%;
+        left: 83%;
+        border-radius: 74px;
+    }
+    .card-body1 {
+        text-align: center;
+        font-size: 16px;
+        font-family: "Poppins";
+    }
+    .serch-input {
+        border: none;
+        width: 41%;
+    }
+    .text-sale {
+        position: absolute;
+        left: 45%;
+        font-family: "Poppins";
+        font-weight: bold;
+        font-size: 21px;
+    }
+    .img-gt {
+        width: 100%;
+    }
+    .text-bigimg {
+        position: absolute;
+        top: 34px;
+        left: 146px;
+        text-align: center;
+    }
+    .img-responsive {
+        width: 222%;
+    }
+}
+@media screen and (max-width: 577px) {
+    .img-responsive {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 524px) {
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 86%;
+        left: 81%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .bt-heart {
+        color: black;
+        font-size: 32px;
+        position: absolute;
+        top: 70%;
+        left: 85%;
+        border-radius: 21px;
+    }
+    .img-gt {
+        width: 100%;
+    }
+    .th {
+        font-family: "Poppins";
+        font-weight: bold;
+        font-size: 15px;
+    }
+    .em {
+        font-family: "Poppins";
+        font-size: 10px;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 226px;
+        left: 219px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 453px) {
+    .th {
+        font-family: "Poppins";
+        font-weight: bold;
+        font-size: 13px;
+    }
+    .em {
+        font-family: "Poppins";
+        font-size: 8px;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 178px;
+        left: 195px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 412px) {
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 83%;
+        left: 77%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .button-shop{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 394px) {
+    .bt-heart {
+        color: black;
+        font-size: 32px;
+        position: absolute;
+        top: 65%;
+        left: 85%;
+        border-radius: 21px;
+    }
+    .text1 {
+        color: white;
+        font-size: 24px;
+        padding-bottom: 19%;
+    }
+    .text-image1 {
+        position: absolute;
+        text-align: center;
+        top: 5%;
+        left: 20%;
+    }
+    
+    .serch-input {
+        border: none;
+        width: 55%;
+    }
+    .text-bigimg {
+        position: absolute;
+        top: 34px;
+        left: 126px;
+        text-align: center;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 161px;
+        left: 165px;
+        font-size: 10px;
+    }
+    .buttons-sh{
+        display: block;
+    }
+    .button-checkout{
+        display: block;
+    }
+}
+@media screen and (max-width: 356px) {
+    .bt-heart {
+        color: black;
+        font-size: 32px;
+        position: absolute;
+        top: 62%;
+        left: 83%;
+        border-radius: 21px;
+    }
+    .btn-arrow2 {
+        color: black;
+        position: absolute;
+        top: 81%;
+        left: 75%;
+        font-weight: bold;
+        font-size: 21px;
+        border-radius: 20px;
+    }
+    .text6 {
+        display: flex;
+        justify-content: center;
+        gap: 16px;
+        font-family: "Poppins";
+    }
+    .text6-1 {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        font-family: "Poppins";
+        font-weight: bolder;
+    }
+    .text-bigimg {
+        position: absolute;
+        top: 34px;
+        left: 97px;
+        text-align: center;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 135px;
+        left: 144px;
+        font-size: 10px;
+    }
+    .ellipse {
+        position: absolute;
+        top: 7%;
+        left: 45%;
+    }
+}
+@media screen and (max-width: 306px) {
+    .btn-arrow {
+        color: black;
+        position: absolute;
+        top: 80%;
+        left: 77%;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    .bt-heart {
+        color: black;
+        font-size: 32px;
+        position: absolute;
+        top: 56%;
+        left: 82%;
+        border-radius: 21px;
+    }
+    .text6 {
+        display: flex;
+        justify-content: center;
+        gap: 9px;
+        font-family: "Poppins";
+    }
+    .text6-1 {
+        display: flex;
+        justify-content: center;
+        gap: 4px;
+        font-family: "Poppins";
+        font-weight: bolder;
+    }
+    .text-image1 {
+        position: absolute;
+        text-align: center;
+        top: 5%;
+        left: 16%;
+    }
+    .text1 {
+        color: white;
+        font-size: 22px;
+        padding-bottom: 12%;
+    }
+    .homepage {
+        background-color: black;
+        color: white;
+        position: absolute;
+        top: 123px;
+        left: 126px;
+        font-size: 10px;
+    }
+    .text-bigimg {
+        position: absolute;
+        top: 23px;
+        left: 80px;
+        text-align: center;
+    }
+    .ellipse {
+        position: absolute;
+        top: 5%;
+        left: 45%;
+    }
+}
+@media screen and (max-width: 282px) {
+    .ellipse {
+        position: absolute;
+        top: 3%;
+        left: 45%;
+    }
+}
